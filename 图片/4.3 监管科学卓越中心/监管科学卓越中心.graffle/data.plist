@@ -14,7 +14,7 @@
 	<key>BackgroundGraphic</key>
 	<dict>
 		<key>Bounds</key>
-		<string>{{0, 0}, {559.27557277679443, 1565.779541015625}}</string>
+		<string>{{0, 0}, {559.27557277679443, 782.8897705078125}}</string>
 		<key>Class</key>
 		<string>SolidGraphic</string>
 		<key>ID</key>
@@ -53,7 +53,7 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
-			<string>{{210.13778448104858, 616}, {139, 61}}</string>
+			<string>{{212.01277780532837, 556}, {139, 61}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -82,36 +82,45 @@
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
 				bmcBlIQBK0Dnm5HnrqHnp5HlrabljZPotorkuK3lv4MK
 				KFJlZ3VsYXRvcnkgQ2VudGVywqBvZsKgRXhjZWxsZW5j
-				ZSxDb0UphoQCaUkBLpKEhIQMTlNEaWN0aW9uYXJ5AJSE
-				AWkHkoSWlgdOU0NvbG9yhpKEhIQHTlNDb2xvcgCUhAFj
-				AoQEZmZmZgAAAAGGkoSWlg1OU1N0cm9rZVdpZHRohpKE
-				hIQITlNOdW1iZXIAhIQHTlNWYWx1ZQCUhAEqhIQBZKAA
-				hpKElpYNTlNTdHJva2VDb2xvcoaSmpKElpYOTlNPcmln
-				aW5hbEZvbnSGkoSEhAZOU0ZvbnQelJkwhAVbNDhjXQYA
-				AAAmAAAA//5QAGkAbgBnAEYAYQBuAGcAUwBDAC0AUgBl
-				AGcAdQBsAGEAcgAAAIQBZgqbAJsBmwCbAIaShJaWEE5T
-				UGFyYWdyYXBoU3R5bGWGkoSEhBdOU011dGFibGVQYXJh
-				Z3JhcGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0eWxlAJSE
-				BENDQFMCAISEhA5OU011dGFibGVBcnJheQCEhAdOU0Fy
-				cmF5AJSZAIaBIAqEBFszZl0RJIPNzEw9hpKElpYGTlNG
-				b250hpKjkoSWlgZOU0tlcm6Gkp2Ghg==
+				ZSxDb0UphoQCaUkBCZKEhIQMTlNEaWN0aW9uYXJ5AJSE
+				AWkGkoSWlgdOU0NvbG9yhpKEhIQHTlNDb2xvcgCUhAFj
+				AoQEZmZmZgAAAAGGkoSWlg1OU1N0cm9rZUNvbG9yhpKE
+				m5sBnAAAAAGGkoSWlgZOU0ZvbnSGkoSEhAZOU0ZvbnQe
+				lJkohAVbNDBjXQYAAAAeAAAA//5NAGkAYwByAG8AcwBv
+				AGYAdABZAGEASABlAGkAAACEAWYKmwCbAZsAmwCGkoSW
+				lgZOU0tlcm6GkoSEhAhOU051bWJlcgCEhAdOU1ZhbHVl
+				AJSEASqEhAFkowCGkoSWlhBOU1BhcmFncmFwaFN0eWxl
+				hpKEhIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQ
+				TlNQYXJhZ3JhcGhTdHlsZQCUhARDQ0BTAgCEhIQHTlNB
+				cnJheQCUmQCGgSAKhARbM2ZdESSDzcxMPYaShJaWDk5T
+				T3JpZ2luYWxGb250hpKfhpcCAZKEmJkFkp6ShKCZMIQF
+				WzQ4Y10GAAAAJgAAAP/+UABpAG4AZwBGAGEAbgBnAFMA
+				QwAtAFIAZQBnAHUAbABhAHIAAACfCpsAmwGbAJsAhpKh
+				kqKSnJKdkqaSp5KZkpqGlwMjkoSYmQaSmZKakpySnZKe
+				koSgmSyEBVs0NGNdBgAAACQAAAD//lQAaQBtAGUAcwBO
+				AGUAdwBSAG8AbQBhAG4AUABTAE0AVACfCpsAmwGbAJsA
+				hpKhkqKSppKnkqySsIaXAgGG
 				</data>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\froman\fcharset0 TimesNewRomanPSMT;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0;}
 \deftab720
 \pard\pardeftab720\sl340\qc
 
 \f0\fs20 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \'bc\'e0\'b9\'dc\'bf\'c6\'d1\'a7\'d7\'bf\'d4\'bd\'d6\'d0\'d0\'c4\
-(Regulatory Center\uc0\u160 of\u160 Excellence,CoE)}</string>
+\uc0\u30417 \u31649 \u31185 \u23398 \u21331 \u36234 \u20013 \u24515 \
+
+\f1 (
+\f2 Regulatory Center\'a0of\'a0Excellence,CoE
+\f1 )}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{52, 543.5}, {164.4488525390625, 61}}</string>
+			<string>{{44.999999523162842, 491.53993988037109}, {153, 61}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -157,36 +166,40 @@
 				bmcBlIQBK2zlkbzlkLjns7vnu5/nlr7nl4Xnm5HnrqHn
 				p5HlrabljZPotorkuK3lv4MKKFJlc3BpcmF0b3J5IERp
 				c2Vhc2VzIFJlZ3VsYXRvcnkgQ2VudGVywqBvZsKgRXhj
-				ZWxsZW5jZSAsIFJEIENvRSmGhAJpSQFOkoSEhAxOU0Rp
-				Y3Rpb25hcnkAlIQBaQeShJaWB05TQ29sb3KGkoSEhAdO
+				ZWxsZW5jZSAsIFJEIENvRSmGhAJpSQEQkoSEhAxOU0Rp
+				Y3Rpb25hcnkAlIQBaQaShJaWB05TQ29sb3KGkoSEhAdO
 				U0NvbG9yAJSEAWMChARmZmZmAAAAAYaShJaWDU5TU3Ry
-				b2tlV2lkdGiGkoSEhAhOU051bWJlcgCEhAdOU1ZhbHVl
-				AJSEASqEhAFkoACGkoSWlg1OU1N0cm9rZUNvbG9yhpKa
-				koSWlg5OU09yaWdpbmFsRm9udIaShISEBk5TRm9udB6U
-				mTCEBVs0OGNdBgAAACYAAAD//lAAaQBuAGcARgBhAG4A
-				ZwBTAEMALQBSAGUAZwB1AGwAYQByAAAAhAFmCpsAmwGb
-				AJsAhpKElpYQTlNQYXJhZ3JhcGhTdHlsZYaShISEF05T
-				TXV0YWJsZVBhcmFncmFwaFN0eWxlAISEEE5TUGFyYWdy
-				YXBoU3R5bGUAlIQEQ0NAUwQAhISEB05TQXJyYXkAlJkA
-				hoEgAoQEWzJmXREkhpKElpYGTlNGb250hpKjkoSWlgZO
-				U0tlcm6Gkp2Ghg==
+				b2tlQ29sb3KGkoSbmwGcAAAAAYaShJaWBk5TRm9udIaS
+				hISEBk5TRm9udB6UmSiEBVs0MGNdBgAAAB4AAAD//k0A
+				aQBjAHIAbwBzAG8AZgB0AFkAYQBIAGUAaQAAAIQBZgqb
+				AJsBmwCbAIaShJaWBk5TS2VyboaShISECE5TTnVtYmVy
+				AISEB05TVmFsdWUAlIQBKoSEAWSjAIaShJaWEE5TUGFy
+				YWdyYXBoU3R5bGWGkoSEhBdOU011dGFibGVQYXJhZ3Jh
+				cGhTdHlsZQCEhBBOU1BhcmFncmFwaFN0eWxlAJSEBEND
+				QFMAAISEhAdOU0FycmF5AJSZAIaBIAqEBFszZl0RJIPN
+				zEw9hpKElpYOTlNPcmlnaW5hbEZvbnSGkp+GlwI9koSY
+				mQaSmZKakpySnZKekoSgmSyEBVs0NGNdBgAAACQAAAD/
+				/lQAaQBtAGUAcwBOAGUAdwBSAG8AbQBhAG4AUABTAE0A
+				VACfCpsAmwGbAJsAhpKhkqKSppKnkqySroaXAQGG
 				</data>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;\f1\froman\fcharset0 TimesNewRomanPSMT;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0;}
 \deftab720
 \pard\pardeftab720\sl340
 
 \f0\fs20 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \'ba\'f4\'ce\'fc\'cf\'b5\'cd\'b3\'bc\'b2\'b2\'a1\'bc\'e0\'b9\'dc\'bf\'c6\'d1\'a7\'d7\'bf\'d4\'bd\'d6\'d0\'d0\'c4\
-(Respiratory Diseases Regulatory Center\uc0\u160 of\u160 Excellence , RD CoE)}</string>
+\uc0\u21628 \u21560 \u31995 \u32479 \u30142 \u30149 \u30417 \u31649 \u31185 \u23398 \u21331 \u36234 \u20013 \u24515 \
+(
+\f1 Respiratory Diseases Regulatory Center\'a0of\'a0Excellence , RD CoE
+\f0 )}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{300, 702.5}, {176.86221313476562, 44}}</string>
+			<string>{{302.71401739120483, 658.5}, {165.97441101074219, 44}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -215,36 +228,45 @@
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
 				bmcBlIQBK0LlpKfmlbDmja7nm5HnrqHnp5HlrabljZPo
 				torkuK3lv4MKKEJpZyBEYXRhIFJlZ3VsYXRvcnkgQ29F
-				LEJEIENvRSmGhAJpSQEskoSEhAxOU0RpY3Rpb25hcnkA
-				lIQBaQeShJaWB05TQ29sb3KGkoSEhAdOU0NvbG9yAJSE
-				AWMChARmZmZmAAAAAYaShJaWDU5TU3Ryb2tlV2lkdGiG
-				koSEhAhOU051bWJlcgCEhAdOU1ZhbHVlAJSEASqEhAFk
-				oACGkoSWlg1OU1N0cm9rZUNvbG9yhpKakoSWlg5OU09y
-				aWdpbmFsRm9udIaShISEBk5TRm9udB6UmTCEBVs0OGNd
-				BgAAACYAAAD//lAAaQBuAGcARgBhAG4AZwBTAEMALQBS
-				AGUAZwB1AGwAYQByAAAAhAFmCpsAmwGbAJsAhpKElpYQ
-				TlNQYXJhZ3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBh
-				cmFncmFwaFN0eWxlAISEEE5TUGFyYWdyYXBoU3R5bGUA
-				lIQEQ0NAUwIAhISEB05TQXJyYXkAlJkAhoEgAoQEWzJm
-				XREkhpKElpYGTlNGb250hpKjkoSWlgZOU0tlcm6Gkp2G
-				hg==
+				LEJEIENvRSmGhAJpSQEMkoSEhAxOU0RpY3Rpb25hcnkA
+				lIQBaQaShJaWB05TQ29sb3KGkoSEhAdOU0NvbG9yAJSE
+				AWMChARmZmZmAAAAAYaShJaWDU5TU3Ryb2tlQ29sb3KG
+				koSbmwGcAAAAAYaShJaWBk5TRm9udIaShISEBk5TRm9u
+				dB6UmSiEBVs0MGNdBgAAAB4AAAD//k0AaQBjAHIAbwBz
+				AG8AZgB0AFkAYQBIAGUAaQAAAIQBZgqbAJsBmwCbAIaS
+				hJaWBk5TS2VyboaShISECE5TTnVtYmVyAISEB05TVmFs
+				dWUAlIQBKoSEAWSjAIaShJaWEE5TUGFyYWdyYXBoU3R5
+				bGWGkoSEhBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZQCE
+				hBBOU1BhcmFncmFwaFN0eWxlAJSEBENDQFMCAISEhAdO
+				U0FycmF5AJSZAIaBIAqEBFszZl0RJIPNzEw9hpKElpYO
+				TlNPcmlnaW5hbEZvbnSGkp+GlwIBkoSYmQWSnpKEoJkw
+				hAVbNDhjXQYAAAAmAAAA//5QAGkAbgBnAEYAYQBuAGcA
+				UwBDAC0AUgBlAGcAdQBsAGEAcgAAAJ8KmwCbAZsAmwCG
+				kqGSopKckp2SppKnkpmSmoaXAx6ShJiZBpKZkpqSnJKd
+				kp6ShKCZLIQFWzQ0Y10GAAAAJAAAAP/+VABpAG0AZQBz
+				AE4AZQB3AFIAbwBtAGEAbgBQAFMATQBUAJ8KmwCbAZsA
+				mwCGkqGSopKmkqeSrJKwhpcCAYY=
 				</data>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\froman\fcharset0 TimesNewRomanPSMT;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0;}
 \deftab720
 \pard\pardeftab720\sl340\qc
 
 \f0\fs20 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \'b4\'f3\'ca\'fd\'be\'dd\'bc\'e0\'b9\'dc\'bf\'c6\'d1\'a7\'d7\'bf\'d4\'bd\'d6\'d0\'d0\'c4\
-(Big Data Regulatory CoE,BD CoE)}</string>
+\uc0\u22823 \u25968 \u25454 \u30417 \u31649 \u31185 \u23398 \u21331 \u36234 \u20013 \u24515 \
+
+\f1 (
+\f2 Big Data Regulatory CoE,BD CoE
+\f1 )}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{345, 543.5}, {146.5, 61}}</string>
+			<string>{{361.27556467056274, 491.5399169921875}, {153, 61}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -273,43 +295,52 @@
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
 				bmcBlIQBK1Doja/lk4Hnm5HnrqHnp5HlrabljZPotork
 				uK3lv4MKKE1lZGljaW5lIFJlZ3VsYXRvcnlDZW50ZXIg
-				b2YgRXhjZWxsZW5jZSxNUiBDb0UgKYaEAmlJATyShISE
-				DE5TRGljdGlvbmFyeQCUhAFpB5KElpYHTlNDb2xvcoaS
+				b2YgRXhjZWxsZW5jZSxNUiBDb0UgKYaEAmlJAQuShISE
+				DE5TRGljdGlvbmFyeQCUhAFpBpKElpYHTlNDb2xvcoaS
 				hISEB05TQ29sb3IAlIQBYwKEBGZmZmYAAAABhpKElpYN
-				TlNTdHJva2VXaWR0aIaShISECE5TTnVtYmVyAISEB05T
-				VmFsdWUAlIQBKoSEAWSgAIaShJaWDU5TU3Ryb2tlQ29s
-				b3KGkpqShJaWDk5TT3JpZ2luYWxGb250hpKEhIQGTlNG
-				b250HpSZMIQFWzQ4Y10GAAAAJgAAAP/+UABpAG4AZwBG
-				AGEAbgBnAFMAQwAtAFIAZQBnAHUAbABhAHIAAACEAWYK
-				mwCbAZsAmwCGkoSWlhBOU1BhcmFncmFwaFN0eWxlhpKE
-				hIQXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGUAhIQQTlNQ
-				YXJhZ3JhcGhTdHlsZQCUhARDQ0BTAgCEhIQOTlNNdXRh
-				YmxlQXJyYXkAhIQHTlNBcnJheQCUmQCGgSAKhARbM2Zd
-				ESSDzcxMPYaShJaWBk5TRm9udIaSo5KElpYGTlNLZXJu
-				hpKdhoY=
+				TlNTdHJva2VDb2xvcoaShJubAZwAAAABhpKElpYGTlNG
+				b250hpKEhIQGTlNGb250HpSZKIQFWzQwY10GAAAAHgAA
+				AP/+TQBpAGMAcgBvAHMAbwBmAHQAWQBhAEgAZQBpAAAA
+				hAFmCpsAmwGbAJsAhpKElpYGTlNLZXJuhpKEhIQITlNO
+				dW1iZXIAhIQHTlNWYWx1ZQCUhAEqhIQBZKMAhpKElpYQ
+				TlNQYXJhZ3JhcGhTdHlsZYaShISEF05TTXV0YWJsZVBh
+				cmFncmFwaFN0eWxlAISEEE5TUGFyYWdyYXBoU3R5bGUA
+				lIQEQ0NAUwIAhISEB05TQXJyYXkAlJkAhoEgCoQEWzNm
+				XREkg83MTD2GkoSWlg5OU09yaWdpbmFsRm9udIaSn4aX
+				AgGShJiZBZKekoSgmTCEBVs0OGNdBgAAACYAAAD//lAA
+				aQBuAGcARgBhAG4AZwBTAEMALQBSAGUAZwB1AGwAYQBy
+				AAAAnwqbAJsBmwCbAIaSoZKikpySnZKmkqeSmZKahpcD
+				LpKEmJkGkpmSmpKckp2SnpKEoJkshAVbNDRjXQYAAAAk
+				AAAA//5UAGkAbQBlAHMATgBlAHcAUgBvAG0AYQBuAFAA
+				UwBNAFQAnwqbAJsBmwCbAIaSoZKikqaSp5KskrCGlwIC
+				hg==
 				</data>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\froman\fcharset0 TimesNewRomanPSMT;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0;}
 \deftab720
 \pard\pardeftab720\sl340\qc
 
 \f0\fs20 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \'d2\'a9\'c6\'b7\'bc\'e0\'b9\'dc\'bf\'c6\'d1\'a7\'d7\'bf\'d4\'bd\'d6\'d0\'d0\'c4\
-(Medicine RegulatoryCenter of Excellence,MR CoE )}</string>
+\uc0\u33647 \u21697 \u30417 \u31649 \u31185 \u23398 \u21331 \u36234 \u20013 \u24515 \
+
+\f1 (
+\f2 Medicine RegulatoryCenter of Excellence,MR CoE
+\f1  )}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{81.137802124023438, 702.5}, {182.86221313476562, 61}}</string>
+			<string>{{100.05117559432983, 650}, {165.97441101074219, 61}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
-			<string>Vertical</string>
+			<string>Clip</string>
 			<key>Flow</key>
-			<string>Resize</string>
+			<string>Clip</string>
 			<key>ID</key>
 			<integer>37</integer>
 			<key>Shape</key>
@@ -326,8 +357,6 @@
 			</dict>
 			<key>Text</key>
 			<dict>
-				<key>Align</key>
-				<integer>0</integer>
 				<key>RTFD</key>
 				<data>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
@@ -335,36 +364,45 @@
 				bmcBlIQBK3DlhL/nq6Xlkozmr43kurLlgaXlurfnm5Hn
 				rqHnp5HlrabljZPotorkuK3lv4MKKENoaWxkcmVuIGFu
 				ZCBtYXRlcm5hbCBEaXNlYXNlcyBhbmQgSGVhbHRoIFJl
-				Z3VsYXRvcnkgQ29FLCBDRCBDb0UphoQCaUkBUpKEhIQM
-				TlNEaWN0aW9uYXJ5AJSEAWkHkoSWlgdOU0NvbG9yhpKE
+				Z3VsYXRvcnkgQ29FLCBDRCBDb0UphoQCaUkBEJKEhIQM
+				TlNEaWN0aW9uYXJ5AJSEAWkGkoSWlgdOU0NvbG9yhpKE
 				hIQHTlNDb2xvcgCUhAFjAoQEZmZmZgAAAAGGkoSWlg1O
-				U1N0cm9rZVdpZHRohpKEhIQITlNOdW1iZXIAhIQHTlNW
-				YWx1ZQCUhAEqhIQBZKAAhpKElpYNTlNTdHJva2VDb2xv
-				coaSmpKElpYOTlNPcmlnaW5hbEZvbnSGkoSEhAZOU0Zv
-				bnQelJkwhAVbNDhjXQYAAAAmAAAA//5QAGkAbgBnAEYA
-				YQBuAGcAUwBDAC0AUgBlAGcAdQBsAGEAcgAAAIQBZgqb
-				AJsBmwCbAIaShJaWEE5TUGFyYWdyYXBoU3R5bGWGkoSE
-				hBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZQCEhBBOU1Bh
-				cmFncmFwaFN0eWxlAJSEBENDQFMEAISEhAdOU0FycmF5
-				AJSZAIaBIAKEBFsyZl0RJIaShJaWBk5TRm9udIaSo5KE
-				lpYGTlNLZXJuhpKdhoY=
+				U1N0cm9rZUNvbG9yhpKEm5sBnAAAAAGGkoSWlgZOU0Zv
+				bnSGkoSEhAZOU0ZvbnQelJkohAVbNDBjXQYAAAAeAAAA
+				//5NAGkAYwByAG8AcwBvAGYAdABZAGEASABlAGkAAACE
+				AWYKmwCbAZsAmwCGkoSWlgZOU0tlcm6GkoSEhAhOU051
+				bWJlcgCEhAdOU1ZhbHVlAJSEASqEhAFkowCGkoSWlhBO
+				U1BhcmFncmFwaFN0eWxlhpKEhIQXTlNNdXRhYmxlUGFy
+				YWdyYXBoU3R5bGUAhIQQTlNQYXJhZ3JhcGhTdHlsZQCU
+				hARDQ0BTAgCEhIQHTlNBcnJheQCUmQCGgSAKhARbM2Zd
+				ESSDzcxMPYaShJaWDk5TT3JpZ2luYWxGb250hpKfhpcC
+				AZKEmJkFkp6ShKCZMIQFWzQ4Y10GAAAAJgAAAP/+UABp
+				AG4AZwBGAGEAbgBnAFMAQwAtAFIAZQBnAHUAbABhAHIA
+				AACfCpsAmwGbAJsAhpKhkqKSnJKdkqaSp5KZkpqGlwNA
+				koSYmQaSmZKakpySnZKekoSgmSyEBVs0NGNdBgAAACQA
+				AAD//lQAaQBtAGUAcwBOAGUAdwBSAG8AbQBhAG4AUABT
+				AE0AVACfCpsAmwGbAJsAhpKhkqKSppKnkqySsIaXAgGG
 				</data>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\froman\fcharset0 TimesNewRomanPSMT;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0;}
 \deftab720
-\pard\pardeftab720\sl340
+\pard\pardeftab720\sl340\qc
 
 \f0\fs20 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \'b6\'f9\'cd\'af\'ba\'cd\'c4\'b8\'c7\'d7\'bd\'a1\'bf\'b5\'bc\'e0\'b9\'dc\'bf\'c6\'d1\'a7\'d7\'bf\'d4\'bd\'d6\'d0\'d0\'c4\
-(Children and maternal Diseases and Health Regulatory CoE, CD CoE)}</string>
+\uc0\u20799 \u31461 \u21644 \u27597 \u20146 \u20581 \u24247 \u30417 \u31649 \u31185 \u23398 \u21331 \u36234 \u20013 \u24515 \
+
+\f1 (
+\f2 Children and maternal Diseases and Health Regulatory CoE, CD CoE
+\f1 )}</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{206.38778495788574, 471}, {146.5, 61}}</string>
+			<string>{{208.26278352737427, 436}, {142.74999952316284, 61}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -391,34 +429,43 @@
 				<data>
 				BAtzdHJlYW10eXBlZIHoA4QBQISEhBJOU0F0dHJpYnV0
 				ZWRTdHJpbmcAhIQITlNPYmplY3QAhZKEhIQITlNTdHJp
-				bmcBlIQBK1TogIHlubTlkozmrovnlr7nm5HnrqHnp5Hl
-				rabljZPotorkuK3lv4MKKEFnZWluZyAmIERpc2FiaWxp
-				dHkgUmVndWxhdG9yeSBDb0UsIEFEIENvRSmGhAJpSQE6
-				koSEhAxOU0RpY3Rpb25hcnkAlIQBaQeShJaWB05TQ29s
-				b3KGkoSEhAdOU0NvbG9yAJSEAWMChARmZmZmAAAAAYaS
-				hJaWDU5TU3Ryb2tlV2lkdGiGkoSEhAhOU051bWJlcgCE
-				hAdOU1ZhbHVlAJSEASqEhAFkoACGkoSWlg1OU1N0cm9r
-				ZUNvbG9yhpKakoSWlg5OU09yaWdpbmFsRm9udIaShISE
-				Bk5TRm9udB6UmTCEBVs0OGNdBgAAACYAAAD//lAAaQBu
-				AGcARgBhAG4AZwBTAEMALQBSAGUAZwB1AGwAYQByAAAA
-				hAFmCpsAmwGbAJsAhpKElpYQTlNQYXJhZ3JhcGhTdHls
-				ZYaShISEF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlAISE
-				EE5TUGFyYWdyYXBoU3R5bGUAlIQEQ0NAUwIAhISEDk5T
-				TXV0YWJsZUFycmF5AISEB05TQXJyYXkAlJkAhoEgCoQE
-				WzNmXREkg83MTD2GkoSWlgZOU0ZvbnSGkqOShJaWBk5T
-				S2VyboaSnYaG
+				bmcBlIQBK1PogIHlubTlkozmrovnlr7nm5HnrqHnp5Hl
+				rabljZPotorkuK3lv4MKKEFnaW5nICYgRGlzYWJpbGl0
+				eSBSZWd1bGF0b3J5IENvRSwgQUQgQ29FKYaEAmlJAQ6S
+				hISEDE5TRGljdGlvbmFyeQCUhAFpBpKElpYHTlNDb2xv
+				coaShISEB05TQ29sb3IAlIQBYwKEBGZmZmYAAAABhpKE
+				lpYNTlNTdHJva2VDb2xvcoaShJubAZwAAAABhpKElpYG
+				TlNGb250hpKEhIQGTlNGb250HpSZKIQFWzQwY10GAAAA
+				HgAAAP/+TQBpAGMAcgBvAHMAbwBmAHQAWQBhAEgAZQBp
+				AAAAhAFmCpsAmwGbAJsAhpKElpYGTlNLZXJuhpKEhIQI
+				TlNOdW1iZXIAhIQHTlNWYWx1ZQCUhAEqhIQBZKMAhpKE
+				lpYQTlNQYXJhZ3JhcGhTdHlsZYaShISEF05TTXV0YWJs
+				ZVBhcmFncmFwaFN0eWxlAISEEE5TUGFyYWdyYXBoU3R5
+				bGUAlIQEQ0NAUwIAhISEB05TQXJyYXkAlJkAhoEgCoQE
+				WzNmXREkg83MTD2GkoSWlg5OU09yaWdpbmFsRm9udIaS
+				n4aXAgGShJiZBZKekoSgmTCEBVs0OGNdBgAAACYAAAD/
+				/lAAaQBuAGcARgBhAG4AZwBTAEMALQBSAGUAZwB1AGwA
+				YQByAAAAnwqbAJsBmwCbAIaSoZKikpySnZKmkqeSmZKa
+				hpcDKZKEmJkGkpmSmpKckp2SnpKEoJkshAVbNDRjXQYA
+				AAAkAAAA//5UAGkAbQBlAHMATgBlAHcAUgBvAG0AYQBu
+				AFAAUwBNAFQAnwqbAJsBmwCbAIaSoZKikqaSp5KskrCG
+				lwIBhg==
 				</data>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\froman\fcharset0 TimesNewRomanPSMT;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c0\c0\c0;}
 \deftab720
 \pard\pardeftab720\sl340\qc
 
 \f0\fs20 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 \'c0\'cf\'c4\'ea\'ba\'cd\'b2\'d0\'bc\'b2\'bc\'e0\'b9\'dc\'bf\'c6\'d1\'a7\'d7\'bf\'d4\'bd\'d6\'d0\'d0\'c4\
-(Ageing &amp; Disability Regulatory CoE, AD CoE)}</string>
+\uc0\u32769 \u24180 \u21644 \u27531 \u30142 \u30417 \u31649 \u31185 \u23398 \u21331 \u36234 \u20013 \u24515 \
+
+\f1 (
+\f2 Aging &amp; Disability Regulatory CoE, AD CoE
+\f1 )}</string>
 			</dict>
 		</dict>
 		<dict>
@@ -428,7 +475,7 @@
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{132, 376}, {6, 23}}</string>
+					<string>{{73, 344.57987976074219}, {6, 17}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -463,7 +510,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{144, 376}, {49, 23}}</string>
+					<string>{{85, 344.57987976074219}, {45, 19}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -499,14 +546,14 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+						<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab420
 \pard\pardeftab420\ri0
 
-\f0\b\fs32 \cf0 2017.2}</string>
+\f0\fs28 \cf0 2017.2}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -519,7 +566,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{132, 403}, {132, 34}}</string>
+			<string>{{73, 363.57987976074219}, {158, 33}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -555,14 +602,16 @@
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;\f1\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab420
 \pard\pardeftab420\ri0
 
-\f0\fs24 \cf0 \'bb\'f1\'d7\'bc\'b3\'c9\'ce\'aa\'b5\'da\'d2\'bb\'c5\'fa\'d5\'fd\'ca\'bd\'b5\'c4APEC\'bc\'e0\'b9\'dc\'bf\'c6\'d1\'a7\'d7\'bf\'d4\'bd\'d6\'d0\'d0\'c4}</string>
+\f0\fs24 \cf0 \uc0\u33719 \u20934 \u25104 \u20026 \u31532 \u19968 \u25209 \u27491 \u24335 \u30340 
+\f1 APEC
+\f0 \uc0\u30417 \u31649 \u31185 \u23398 \u21331 \u36234 \u20013 \u24515 }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -574,7 +623,7 @@
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{22, 287}, {6, 23}}</string>
+					<string>{{25, 273.5}, {6, 15}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -609,7 +658,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{34, 287}, {49, 23}}</string>
+					<string>{{37, 271.5}, {45, 19}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -645,14 +694,14 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+						<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab420
 \pard\pardeftab420\ri0
 
-\f0\b\fs32 \cf0 2016.7}</string>
+\f0\fs28 \cf0 2016.7}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -665,7 +714,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{22, 314}, {153, 34}}</string>
+			<string>{{25, 290.5}, {158, 33}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -701,14 +750,16 @@
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;\f1\froman\fcharset0 TimesNewRomanPSMT;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab420
 \pard\pardeftab420\ri0
 
-\f0\fs24 \cf0 \'a1\'b0\'c8\'ab\'c7\'f2\'b6\'e0\'d6\'d0\'d0\'c4\'c1\'d9\'b4\'b2\'ca\'d4\'d1\'e9\'bc\'b0GCP\'cf\'e0\'b9\'d8\'bf\'bc\'c1\'bf\'a1\'b1\'ca\'d4\'b5\'e3\'c5\'e0\'d1\'b5\'cf\'ee\'c4\'bf}</string>
+\f0\fs24 \cf0 \'93\uc0\u20840 \u29699 \u22810 \u20013 \u24515 \u20020 \u24202 \u35797 \u39564 \u21450 
+\f1 GCP
+\f0 \uc0\u30456 \u20851 \u32771 \u37327 \'94\u35797 \u28857 \u22521 \u35757 \u39033 \u30446 }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -720,7 +771,7 @@
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{389, 121}, {6, 23}}</string>
+					<string>{{361, 107.57989501953125}, {6, 17}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -755,7 +806,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{401, 121}, {53, 23}}</string>
+					<string>{{373, 105.57989501953125}, {53, 19}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -791,14 +842,14 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+						<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab420
 \pard\pardeftab420\ri0
 
-\f0\b\fs32 \cf0 2015.11}</string>
+\f0\fs28 \cf0 2015.11}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -811,7 +862,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{389, 148}, {132, 18}}</string>
+			<string>{{361.5, 124.57989501953125}, {130, 17}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -847,14 +898,15 @@
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\fnil\fcharset0 MicrosoftYaHei;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab420
 \pard\pardeftab420\ri0
 
-\f0\fs24 \cf0 ICH E17 \'bf\'c6\'d1\'a7\'bc\'e0\'b9\'dc\'d1\'d0\'cc\'d6\'bb\'e1}</string>
+\f0\fs24 \cf0 ICH E17 
+\f1 \uc0\u31185 \u23398 \u30417 \u31649 \u30740 \u35752 \u20250 }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
@@ -868,7 +920,7 @@
 			<array>
 				<dict>
 					<key>Bounds</key>
-					<string>{{322, 31}, {6, 23}}</string>
+					<string>{{277, 33}, {6, 17}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>ID</key>
@@ -903,7 +955,7 @@
 				</dict>
 				<dict>
 					<key>Bounds</key>
-					<string>{{334, 31}, {50, 23}}</string>
+					<string>{{289, 31}, {45, 19}}</string>
 					<key>Class</key>
 					<string>ShapedGraphic</string>
 					<key>FitText</key>
@@ -939,14 +991,14 @@
 						<key>Pad</key>
 						<integer>0</integer>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+						<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset0 MicrosoftYaHei;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab420
 \pard\pardeftab420\ri0
 
-\f0\b\fs32 \cf0 2015.8}</string>
+\f0\fs28 \cf0 2015.8}</string>
 						<key>VerticalPad</key>
 						<integer>0</integer>
 					</dict>
@@ -959,7 +1011,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{322, 58}, {132, 34}}</string>
+			<string>{{277, 51}, {241, 17}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>FitText</key>
@@ -995,21 +1047,22 @@
 				<key>Pad</key>
 				<integer>0</integer>
 				<key>Text</key>
-				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf820
-\cocoascreenfonts1{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+				<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf830
+\cocoascreenfonts1{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\fnil\fcharset0 MicrosoftYaHei;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
 \deftab420
 \pard\pardeftab420\ri0
 
-\f0\fs24 \cf0 HeSAY\'d5\'fd\'ca\'bd\'bd\'d2\'c5\'c6\'b2\'a2\'b3\'c9\'c1\'a2\'cf\'c2\'ca\'f4\'bc\'e0\'b9\'dc\'bf\'c6\'d1\'a7\'d7\'bf\'d4\'bd\'d6\'d0\'d0\'c4}</string>
+\f0\fs24 \cf0 HeSAY
+\f1 \uc0\u27491 \u24335 \u25581 \u29260 \u24182 \u25104 \u31435 \u19979 \u23646 \u30417 \u31649 \u31185 \u23398 \u21331 \u36234 \u20013 \u24515 }</string>
 				<key>VerticalPad</key>
 				<integer>0</integer>
 			</dict>
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{223.99999952316284, 268}, {169, 169}}</string>
+			<string>{{229, 260.81072998046875}, {153, 146.45845031738281}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -1041,7 +1094,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{132, 179}, {169, 169}}</string>
+			<string>{{148, 180.65980292495186}, {153, 142.8402099609375}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -1073,7 +1126,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{253, 121}, {169, 169}}</string>
+			<string>{{232.25001146666409, 105.57989881165634}, {146.5, 142.8402099609375}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -1105,7 +1158,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{162, 31}, {169, 169}}</string>
+			<string>{{148, 31}, {153, 139.42011834319527}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -1147,8 +1200,8 @@
 			<integer>45</integer>
 			<key>Points</key>
 			<array>
-				<string>{241.4380173449222, 677}</string>
-				<string>{209.50050711635754, 702.5}</string>
+				<string>{249.53433225670992, 617}</string>
+				<string>{214.93470264672931, 650}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1191,8 +1244,8 @@
 			<integer>44</integer>
 			<key>Points</key>
 			<array>
-				<string>{322.02711376829893, 677}</string>
-				<string>{357.46737268059019, 702.5}</string>
+				<string>{315.33190281925295, 617}</string>
+				<string>{361.34808931360931, 658.5}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1235,8 +1288,8 @@
 			<integer>43</integer>
 			<key>Points</key>
 			<array>
-				<string>{221.19880905330697, 618.10391268494857}</string>
-				<string>{193.20203927666731, 604.5}</string>
+				<string>{218.63551611009785, 561.13205792206372}</string>
+				<string>{189.06597658676779, 549.20217507291943}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1279,8 +1332,8 @@
 			<integer>41</integer>
 			<key>Points</key>
 			<array>
-				<string>{279.63778591156006, 616}</string>
-				<string>{279.63778591156006, 532}</string>
+				<string>{281.03635400504089, 556}</string>
+				<string>{280.11474730940284, 497}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1323,8 +1376,8 @@
 			<integer>42</integer>
 			<key>Points</key>
 			<array>
-				<string>{336.6735315451088, 617.46830202462286}</string>
-				<string>{362.46397197221319, 604.34074052725703}</string>
+				<string>{343.91916254280517, 560.7211761818013}</string>
+				<string>{370.83593868713552, 549.60239670278611}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -1357,7 +1410,7 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{98.474944114685059, 468}, {362.32568359375, 362.5}}</string>
+			<string>{{103.22265386581421, 424}, {352.83026123046875, 353}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
 			<key>ID</key>
@@ -1449,7 +1502,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2017-05-11 07:38:02 +0000</string>
+	<string>2017-05-31 07:18:06 +0000</string>
 	<key>Modifier</key>
 	<string>Shuai Guo</string>
 	<key>NotesVisible</key>
@@ -1517,7 +1570,7 @@
 	<key>UseEntirePage</key>
 	<false/>
 	<key>VPages</key>
-	<integer>2</integer>
+	<integer>1</integer>
 	<key>WindowInfo</key>
 	<dict>
 		<key>CurrentSheet</key>
@@ -1539,7 +1592,7 @@
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{-92, 358}, {745, 575}}</string>
+		<string>{{-92, 36}, {745, 575}}</string>
 		<key>Zoom</key>
 		<real>1</real>
 		<key>ZoomValues</key>

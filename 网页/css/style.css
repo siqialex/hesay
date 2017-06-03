@@ -1,6 +1,6 @@
 *{margin:0;padding:0;text-decoration:none;list-style:none;}
-.top-bg{width:100%;height:250px;background:#8b0012;}
-.down-bg{width:100%;height:60px;background:#8b0012;}
+.top-bg{width:100%;height:150px;background:#8b0012;}
+.down-bg{width:100%;height:30px;background:#8b0012;}
 .top{width:1000px;margin:0 auto;}
 
 
@@ -12,7 +12,7 @@
 
 
 
-.topleft-img{padding-top:20px;}
+.topleft-img{padding-top:10px;}
 .top-bg .top .top-title{
 	font: 100 50px/80px '';
 	text-align: center;
@@ -43,7 +43,7 @@
 }
 .content .cleft .clefts,.cmiddle .clefts,.cright .clefts{
 	margin-top: 20px;
-	font-family: "Songti SC Regular";
+	font-family: "Microsoft YaHei";
 	font-size: 16px;
 }
 .content .cleft .cleft2>a{
@@ -53,7 +53,7 @@
 	line-height: 40px;
 	font-weight: 100;
 	text-decoration: none;
-	font-family: STHeiti;
+	font-family: Microsoft YaHei;
 	text-align: left;
 }
 
@@ -62,7 +62,7 @@
 	color: #000000;
 	margin-top: 20px;
 	font-size: 16px;
-	font-family: STHeiti;
+	font-family: Microsoft YaHei;
 	text-align: left;
 }
 .cmiddle .clefts>p.con-text{
@@ -70,7 +70,7 @@
 	text-indent: 50px;
 	margin-top: 20px;
 	font-size: 16px;
-	font-family: STHeiti;
+	font-family: Microsoft YaHei;
 	text-align: left;
 }
 
@@ -83,7 +83,7 @@
 	font-size: 16px;
 	line-height: 30px;
 	font-weight: 100;
-	font-family: STHeiti;
+	font-family: Microsoft YaHei;
 	text-align: left;
 }
 
@@ -111,14 +111,17 @@
 	font-weight: bold;
 	text-align: center;
 	text-decoration: none;
+	font-family: "Microsoft YaHei";
+	color: #FFFDFD;
 }
 		.nav .sub{ display:none; width:166px; left:0; top:40px;  position:absolute; background:#8b0012;  line-height:40px; padding:5px 0;  text-align:center;}
 		.nav .sub li{ zoom:1; }
 		.nav .sub a{ display:block; padding:0 10px; }
 		.nav .sub a:hover{
 	background: #68000c;
-	color: #fff;
+	color: #FFFFFF;
 	text-decoration: none;
+	font-family: Microsoft YaHei;
 }
 		.nav .on h3 a{ background:#68000c; color:#fff;   }
 
@@ -136,7 +139,13 @@
 	background-color: #FFFFFF;
 }
 		.slideBox .bd li{ zoom:1; vertical-align:middle; }
-		.slideBox .bd img{ width:700px; height:300px; margin:0 auto;display:block;  }
+		.slideBox .bd img{
+	width: 700px;
+	height: 300px;
+	margin: 0 auto;
+	display: block;
+	font-family: "Microsoft YaHei";
+}
 
 		/* 下面是前/后按钮代码，如果不需要删除即可 */
 		.slideBox .prev,
@@ -154,10 +163,10 @@
 .pagecl>ul>li>a{
 	color: #68000c;
 	text-decoration: none;
-	font-size: 20px;
+	font-size: 18px;
 	line-height: 50px;
 	font-weight: 100;
-	font-family: STHeiti;
+	font-family: Microsoft YaHei;
 }
 .pagecontent{
 	float: right;
@@ -168,15 +177,15 @@
 .pagecontent h2{
 	text-align: center;
 	font: 100 30px/50px '';
-	font-family: STHeiti;
+	font-family: Microsoft YaHei;
 	font-size: 25px;
 }
 .pagecontent p{
 	font: 100 24px/40px '';
 	margin-top: 20px;
 	text-indent: 20px;
-	font-size: 20px;
-	font-family: STHeiti;
+	font-size: 14px;
+	font-family: "Microsoft YaHei";
 	text-align: left;
 }
 .pagecontent .bot-img1{margin-top:30px;float:left;width:500px;height:400px;background:#4f81bd;border:1px solid #385d8a;border-radius:40px;}
